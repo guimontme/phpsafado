@@ -1,9 +1,9 @@
-#PHP Safado
+# PHP Safado
 
 Como uma oportunidade que surge, essa comunidade surgiu para difundir o 
 PHP pelo Mundo!
 
-##Quem somos
+## Quem somos
 
 PHP safado é uma comunidade fechada de membros mas que está aberta à disseminar
 conhecimento da linguagem PHP, com humor, descontração e um pouco de zoeira e
